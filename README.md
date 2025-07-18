@@ -1,2 +1,2 @@
-# FastApi---Rabbit---iOGram-Notification-
+# Notification service
 FastApi -> Rabbit -> iOGram [Notification]
